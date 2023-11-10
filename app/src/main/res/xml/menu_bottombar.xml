@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs>
+    <tab
+        icon="@drawable/ic_home"
+        id="@+id/bb_menu_home"
+        title="@string/home"
+        />
+    <tab
+        icon="@drawable/ic_shop"
+        id="@+id/bb_menu_contacts"
+        title="@string/contacts"
+        />
+    <tab
+        icon="@drawable/ic_star_primary"
+        id="@+id/bb_menu_favorites"
+        title="@string/favorites"
+        />
+    <tab
+        icon="@drawable/ic_settings"
+        id="@+id/bb_menu_settings"
+        title="@string/settings"
+        />
+</tabs>
